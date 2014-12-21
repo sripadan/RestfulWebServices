@@ -4,6 +4,11 @@ import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
  
+/**
+ *  Neeed to add comments
+ * @author Joshi
+ *
+ */
 @XmlRootElement(name = "customer")
 public class Customer {
  
